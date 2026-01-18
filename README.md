@@ -2,7 +2,7 @@
 
 Bienvenue sur DATAIKÔS Mailer — un petit service FastAPI pour envoyer des e-mails (avec pièces jointes et import CSV de destinataires).
 
-[Tester en ligne ▶️](https://dataikos-mailer.onrender.com)
+[Tester en ligne ]([https://dataikos-mailer.onrender.com](https://dataikos-mailer-2.onrender.com))
 
 ---
 
@@ -106,4 +106,4 @@ MIT — voir le fichier LICENSE si présent.
 
 ---
 
-Merci d'avoir essayé DATAIKÔS Mailer — clique sur ce lien pour tester immédiatement : https://dataikos-mailer.onrender.com
+Merci d'avoir essayé DATAIKÔS Mailer — clique sur ce lien pour tester immédiatement : [https://dataikos-mailer.onrender.com](https://dataikos-mailer-2.onrender.com)
